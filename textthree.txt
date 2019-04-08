@@ -1,6 +1,2 @@
-
-reham f
-
-learn git
-
+text three
 
